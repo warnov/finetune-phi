@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+env/
+env.bak/
+.venv/
+
+# Ignore config.py files
+config.py
+*/config.py
